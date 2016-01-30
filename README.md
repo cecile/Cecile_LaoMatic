@@ -19,7 +19,7 @@ Type **/clm play _number_** to **view a particular** cinematic.
 
 #Notes:
 
-This AddOn is made by a request from **Laodice** (AKA the terror of |**EU** - **Zul'jin** Auction House)
+This AddOn is made by a request from **Laodice** (AKA the terror of **EU** - **Zul'jin** Auction House)
 
 #Created By:
 
