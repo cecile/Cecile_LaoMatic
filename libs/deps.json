@@ -1,0 +1,29 @@
+{
+  "Ace3" : {
+    "type" : "svn",
+    "url" : "svn://svn.wowace.com/wow/ace3/mainline/trunk",
+    "folders" : [
+      "AceAddon-3.0",
+      "AceComm-3.0",
+      "AceConfig-3.0",
+      "AceDB-3.0",
+      "AceDBOptions-3.0",
+      "AceEvent-3.0",
+      "AceGUI-3.0",
+      "AceHook-3.0",
+      "AceLocale-3.0",
+      "AceTimer-3.0",
+      "CallbackHandler-1.0",
+      "LibStub" ],
+    "destination" : "Libs",
+    "disabled" : false
+  },
+  "LibDualSpec-1.0" : {
+    "type" : "wowace",
+    "url" : "http://www.wowace.com/addons/libdualspec-1-0",
+    "folders" : ["LibDualSpec-1.0"],
+    "destination" : "Libs",
+    "disabled" : false
+  },
+}
+

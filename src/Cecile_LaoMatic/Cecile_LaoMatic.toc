@@ -1,0 +1,15 @@
+## Interface: 60200
+## Title: |cffffffffCecile|r_|cfffff569LaoMatic|r
+## Notes: Skip Cinematics
+## Author: Cecile
+## Version: 1.0.0.release
+## SavedVariables: Cecile_LaoMaticDB
+## OptionalDeps:
+
+libs\load_libs.xml
+locales\load_locales.xml
+
+main.lua
+
+modules\load_modules.xml
+config\load_config.xml
